@@ -1,4 +1,4 @@
 export default defineConfig({
-  plugins: [react()],
-  base: "/islena17.github.io/",
+    plugins: [react()],
+    base: "/islena17.github.io/",
 });
